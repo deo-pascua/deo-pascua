@@ -6,6 +6,7 @@
 - 📫 How to reach me **deo.pascua08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://linkedin.com/in/rodeldeopascua)
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/8RH0xD17q)
 
