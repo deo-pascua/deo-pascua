@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodel Deo Pascua</h1>
 <h3 align="center">A passionate developer from Philippines with SEO Experience</h3>
 
-- 🌱 I’m currently learning **programming and eager to experience other dev environments and platforms**
+- 🌱 I am a highly motivated and results-driven SEO Specialist who has transitioning into web development. I have a growing track record of increasing my experience on organic traffic and search engine rankings. I am currently extending my skill set to include web development because I have a thorough understanding of search algorithms and a love for remaining current with market developments. I am committed to lifelong learning and development, and I can't wait to use my SEO expertise to create websites that perform well. My goal is to dedicate myself to provide my clients with outstanding outcomes, whether it is through keyword research, content optimization, or the development of dynamic web apps. 
 
 - 📫 How to reach me **deo.pascua08@gmail.com**
 
